@@ -1,0 +1,12 @@
+F:\C# Eng Hani itake 39\Projects\YourChores\YourChores.Data\bin\Debug\net5.0\YourChores.Data.deps.json
+F:\C# Eng Hani itake 39\Projects\YourChores\YourChores.Data\bin\Debug\net5.0\YourChores.Data.dll
+F:\C# Eng Hani itake 39\Projects\YourChores\YourChores.Data\bin\Debug\net5.0\ref\YourChores.Data.dll
+F:\C# Eng Hani itake 39\Projects\YourChores\YourChores.Data\bin\Debug\net5.0\YourChores.Data.pdb
+F:\C# Eng Hani itake 39\Projects\YourChores\YourChores.Data\obj\Debug\net5.0\YourChores.Data.csprojAssemblyReference.cache
+F:\C# Eng Hani itake 39\Projects\YourChores\YourChores.Data\obj\Debug\net5.0\YourChores.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Eng Hani itake 39\Projects\YourChores\YourChores.Data\obj\Debug\net5.0\YourChores.Data.AssemblyInfoInputs.cache
+F:\C# Eng Hani itake 39\Projects\YourChores\YourChores.Data\obj\Debug\net5.0\YourChores.Data.AssemblyInfo.cs
+F:\C# Eng Hani itake 39\Projects\YourChores\YourChores.Data\obj\Debug\net5.0\YourChores.Data.csproj.CoreCompileInputs.cache
+F:\C# Eng Hani itake 39\Projects\YourChores\YourChores.Data\obj\Debug\net5.0\YourChores.Data.dll
+F:\C# Eng Hani itake 39\Projects\YourChores\YourChores.Data\obj\Debug\net5.0\ref\YourChores.Data.dll
+F:\C# Eng Hani itake 39\Projects\YourChores\YourChores.Data\obj\Debug\net5.0\YourChores.Data.pdb
